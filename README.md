@@ -19,6 +19,7 @@ Follow the steps below
 ```bash
 # Install the dependencies
 $ yarn install
+yarn add typescript  @type/react @types/react-dom @types/node -D
 
 # Start the project
 $ yarn dev
