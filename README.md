@@ -7,7 +7,7 @@ This project was developed using the following technologies:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🔥 Preview
+
 
 
 
@@ -24,19 +24,7 @@ $ yarn install
 $ yarn dev
 ```
 
-## 💻 Project
 
-
-
-Th
-
-## 🔖 Layout
-
-You can view the project layout through the links below:
-
-- [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0) 
-
-Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
 
 
