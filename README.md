@@ -16,10 +16,13 @@ This project was developed using the following technologies:
 
 
 Follow the steps below
+
 ```bash
+
 # Install the dependencies
 
 $ yarn install
+
 yarn create next-app moveit-next
 
 yarn add typescript  @type/react @types/react-dom @types/node -D
@@ -27,6 +30,7 @@ yarn add typescript  @type/react @types/react-dom @types/node -D
 ai vc coloca os arquivo nessa pasta criada moveit-next e faz o starte abaixo.
 
 # Start the project
+
 $ yarn dev
 ```
 
